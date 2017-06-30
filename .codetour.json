@@ -1,8 +1,7 @@
 {
-  "targetRepository": "partyparrot/codetours-starter-kit",
-  "description": "Start here when you're making a code tour!",
+  "targetRepository": "surprisetalk/pommy",
+  "description": "A pomodoro app in your terminal",
   "steps": [
-    "my-first-step.md",
-    "markdown.md"
+    "one-file.md"
   ]
 }
