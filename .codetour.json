@@ -2,6 +2,9 @@
   "targetRepository": "surprisetalk/pommy",
   "description": "A pomodoro app in your terminal",
   "steps": [
-    "one-file.md"
+    "pkg.md",
+    "query.md",
+    "setup.md",
+    "party.md"
   ]
 }
