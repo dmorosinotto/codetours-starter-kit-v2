@@ -9,7 +9,7 @@ code: https://github.com/partyparrot/spectacular-codetours/blob/master/presentat
 
 <a href="https://github.com/partyparrot/spectacular-codetours/blob/master/presentation/Tour.js#L26-L36"><h4>No tour yet!</h4></a>
 
-<a href="https://github.com/partyparrot/spectacular-codetours/blob/master/presentation/Tour.js#L26-L36"><h4>Warm up</h4></a>
+<a href="https://github.com/partyparrot/spectacular-codetours/blob/master/presentation/Tour.js#L38-L41"><h4>Warming up</h4></a>
 
 <a href="https://github.com/partyparrot/spectacular-codetours/blob/master/presentation/Tour.js#L44-L53"><h4>Say hello, tour</h4></a>
 
