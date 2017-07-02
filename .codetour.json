@@ -1,6 +1,6 @@
 {
-  "targetRepository": "surprisetalk/pommy",
-  "description": "A pomodoro app in your terminal",
+  "targetRepository": "partyparrot/spectacular-codetours",
+  "description": "Spectacular CodeTours",
   "steps": [
     "pkg.md",
     "query.md",
